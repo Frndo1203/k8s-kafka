@@ -1,39 +1,21 @@
-<p align="center">
-  <a href="" rel="noopener">
- <img width=210px height=200px src="https://media-exp1.licdn.com/dms/image/C4D0BAQG7OjFosqn9dA/company-logo_200_200/0/1625776698161?e=2159024400&v=beta&t=1yvuOj8Q0MbxulP1hEfwjY5U55aU8VdBW77FNJISzpI" alt="Project logo"></a>
-</p>
+# Event oriented architecture on AWS
 
-<h3 align="center">Bootcamp Engenheiro(a) de Dados Cloud - IGTI - Módulo 2</h3>
+Repo for developing an event oriented architecture using k8s and apache kafka. 
 
-<div align="center">
+## Project Description:
+- In construction.
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+## Solution Architecture:
 
-</div>
+![k8s](img/Arquitetura.png)
 
----
-
-## 📝 Conteúdo
-
-- [Arquitetura](#architeture)
-- [Autor](#authors)
-
-## Arquitetura Orientada a Eventos <a name = "about"></a>
-
-
-
-![k8s](img/Arquitetura-Igti.png)
-
-
-## ⛏️ Built Using <a name = "built_using"></a>
-
+## Built using
 - EKS
 - Kafka Strimzi Operator
 - Apache Pinot
 - KsqlDB
 - Python 
 
-## ✍️ Authors <a name = "authors"></a>
+# ✍️ Authors <a name = "authors"></a>
 
-- [@carlosbpy](https://github.com/carlosbpy)
+- [@Frndo1203](https://github.com/Frndo1203)
